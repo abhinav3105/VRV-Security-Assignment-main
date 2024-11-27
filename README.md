@@ -81,7 +81,7 @@ Before you begin, ensure you have the following installed:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/abhinav3105/VRV-Security-Assignment-main
+git clone https://github.com/Atmalviya/VRV-Security-Assignment.git
 cd VRV-Security-Assignment
 ```
 
